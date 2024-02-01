@@ -1,0 +1,85 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Electrical and Computer Engineering
+      institution: University of British Columbia, Vancouver, Canada
+      year: 2013
+      description:
+        - Advised by <a href="https://people.ece.ubc.ca/zjanew/">Z. Jane Wang</a>
+
+    - title: Master of Science in Bioinformatics
+      institution: University of British Columbia, Vancouver, Canada
+      year: 2008
+      description:
+        - Advised by <a href="https://www.sib.swiss/raphael-gottardo-group/">Raphael Gottardo</a> and <a href="https://www.cs.ubc.ca/~murphyk/">Kevin P. Murphy</a>
+
+    - title: Bachelor of Science
+      institution: Zhejiang University, Hangzhou, China
+      year: 2006
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Associate Professor of Mathematics
+      institution: University of Southern California
+      year: 2023 - Present
+
+    - title: Adjunct Associate Professor
+      institution: <a href="https://stat.illinois.edu/"> Department of Statistics</a>, University of Illinois at Urbana-Champaign
+      year: 2023 - Present
+
+    - title: Associate Professor of Statistics
+      institution: University of Illinois at Urbana-Champaign
+      year: 2019 - 2023
+
+    - title: Assistant Professor of Statistics
+      institution: University of Illinois at Urbana-Champaign
+      year: 2013 - 2019
+
+    - title: Visiting Faculty
+      institution: <a href="https://idss.mit.edu/">Institute for Data, Systems, and Society (IDSS)</a>, Massachusetts Institute of Technology
+      year: 2019 - 2020
+
+    - title: Affiliated Member
+      institution: <a href="https://dpi.uillinois.edu/">Discovery Partners Institute</a>, University of Illinois
+      year: 2020 - 2023
+
+    - title: Affiliated Faculty
+      institution: <a href="https://cse.illinois.edu/">Computational Science and Engineering</a>, University of Illinois at Urbana-Champaign
+      year: 2014 - 2023
+
+    - title: Affiliated Faculty
+      institution: <a href="https://informatics.ischool.illinois.edu/">Informatics Programs</a>, University of Illinois at Urbana-Champaign
+      year: 2014 - 2023
+
+    - title: Post-doc and research intern
+      institution: Toyota Technological Institute at Chicago
+      year: 2011 - 2012
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - Simons Fellowship in Mathematics
+        - Associate, Center for Advanced Study, UIUC
+
+    - year: 2019
+      items: 
+        - <a href="https://www.icsa.org/2010-2/">ICSA Outstanding Young Researcher Award</a>
+
+    - year: 2018
+      items: 
+        - NSF CAREER Award
+        - Arnold O. Beckman Award, University of Illinois  
+
+- title: Associate Editor
+  type: time_table
+  contents:
+    - year: 2020 - present
+      items: 
+        - Statistica Sinica
+
+    - year: 2019 - present
+      items: 
+        - Canadian Journal of Statistics
