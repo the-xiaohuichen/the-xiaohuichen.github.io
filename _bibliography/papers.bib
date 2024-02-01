@@ -1,7 +1,7 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Xiaohui Chen at 2024-01-16 21:35:09 -0800 
+%% Created for Xiaohui Chen at 2024-01-31 18:03:04 -0800 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
@@ -9,21 +9,36 @@
 
 @string{aps = {American Physical Society,}}
 
+@article{zhang2023generative,
+	abbr = {Journal},
+	abstract = {Deep generative models are key-enabling technology to computer vision, text generation and large language models. Denoising diffusion probabilistic models (DDPMs) have recently gained much attention due to their ability to generate diverse and high-quality samples in many computer vision tasks, as well as to incorporate flexible model architectures and relatively simple training scheme. Quantum generative models, empowered by entanglement and superposition, have brought new insight to learning classical and quantum data. Inspired by the classical counterpart, we propose the quantum denoising diffusion probabilistic models (QuDDPM) to enable efficiently trainable generative learning of quantum data. QuDDPM adopts sufficient layers of circuits to guarantee expressivity, while introduces multiple intermediate training tasks as interpolation between the target distribution and noise to avoid barren plateau and guarantee efficient training. We demonstrate QuDDPM's capability in learning correlated quantum noise model and learning topological structure of nontrivial distribution of quantum data.},
+	author = {Zhang, Bingzhi and Xu, Peng and Chen, Xiaohui and Zhuang, Quntao},
+	bibtex_show = {true},
+	date-added = {2023-10-09 22:08:13 -0700},
+	date-modified = {2024-01-31 18:03:04 -0800},
+	journal = {Physical Review Letters},
+	pdf = {https://arxiv.org/abs/2310.05866},
+	primaryclass = {quant-ph},
+	title = {Generative quantum machine learning via denoising diffusion probabilistic models},
+	url = {https://arxiv.org/abs/2310.05866},
+	year = {2024},
+	code = {https://github.com/Francis-Hsu/QuantGenMdl},
+	bdsk-url-1 = {https://arxiv.org/abs/2310.05866}}
 
 @inproceedings{ZhuangChenYangZhang2023_NMF-BM,
 	abbr = {Conference},
 	abbr2 = {Oral},
-	honor = {Oral Presentation [One of 85/7262 submissions. Top 1.2\%]},
 	abstract = {K-means clustering is a widely used machine learning method for identifying patterns in large datasets. Semidefinite programming (SDP) relaxations have recently been proposed for solving the K-means optimization problem that enjoy strong statistical optimality guarantees, but the prohibitive cost of implementing an SDP solver renders these guarantees inaccessible to practical datasets. By contrast, nonnegative matrix factorization (NMF) is a simple clustering algorithm that is widely used by machine learning practitioners, but without a solid statistical underpinning nor rigorous guarantees. In this paper, we describe an NMF-like algorithm that works by solving a nonnegative low-rank restriction of the SDP relaxed K-means formulation using a nonconvex Burer--Monteiro factorization approach. The resulting algorithm is just as simple and scalable as state-of-the-art NMF algorithms, while also enjoying the same strong statistical optimality guarantees as the SDP. In our experiments, we observe that our algorithm achieves substantially smaller mis-clustering errors compared to the existing state-of-the-art.},
 	author = {Zhuang, Yubo and Chen, Xiaohui and Yang, Yun and Zhang, Richard Y.},
 	bibtex_show = {true},
 	booktitle = {International Conference on Learning Representations (ICLR)},
+	code = {https://github.com/Yubo02/Statistically-Optimal-K-means-Clustering-via-Nonnegative-Low-rank-Semidefinite-Programming},
 	date-added = {2023-06-04 11:47:33 -0700},
 	date-modified = {2024-01-16 21:35:09 -0800},
+	honor = {Oral Presentation [One of 85/7262 submissions. Top 1.2\%]},
 	month = {May},
 	pdf = {https://arxiv.org/abs/2305.18436},
 	selected = {true},
-	code = {https://github.com/Yubo02/Statistically-Optimal-K-means-Clustering-via-Nonnegative-Low-rank-Semidefinite-Programming},
 	title = {Statistically Optimal K-means Clustering via Nonnegative Low-rank Semidefinite Programming},
 	url = {https://arxiv.org/abs/2305.18436},
 	year = {2024},
@@ -48,21 +63,6 @@
 	volume = {30},
 	year = {2024},
 	bdsk-url-1 = {https://doi.org/10.3150/23-BEJ1614}}
-
-@misc{zhang2023generative,
-	abbr = {arXiv},
-	abstract = {Deep generative models are key-enabling technology to computer vision, text generation and large language models. Denoising diffusion probabilistic models (DDPMs) have recently gained much attention due to their ability to generate diverse and high-quality samples in many computer vision tasks, as well as to incorporate flexible model architectures and relatively simple training scheme. Quantum generative models, empowered by entanglement and superposition, have brought new insight to learning classical and quantum data. Inspired by the classical counterpart, we propose the quantum denoising diffusion probabilistic models (QuDDPM) to enable efficiently trainable generative learning of quantum data. QuDDPM adopts sufficient layers of circuits to guarantee expressivity, while introduces multiple intermediate training tasks as interpolation between the target distribution and noise to avoid barren plateau and guarantee efficient training. We demonstrate QuDDPM's capability in learning correlated quantum noise model and learning topological structure of nontrivial distribution of quantum data.},
-	author = {Zhang, Bingzhi and Xu, Peng and Chen, Xiaohui and Zhuang, Quntao},
-	bibtex_show = {true},
-	date-added = {2023-10-09 22:08:13 -0700},
-	date-modified = {2023-10-10 18:53:51 -0700},
-	month = {Oct},
-	pdf = {https://arxiv.org/abs/2310.05866},
-	primaryclass = {quant-ph},
-	title = {Generative quantum machine learning via denoising diffusion probabilistic models},
-	url = {https://arxiv.org/abs/2310.05866},
-	year = {2023},
-	bdsk-url-1 = {https://arxiv.org/abs/2310.05866}}
 
 @misc{YaoChenYang2023_WPCG,
 	abbr = {arXiv},
