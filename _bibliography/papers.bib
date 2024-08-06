@@ -9,6 +9,40 @@
 
 @string{aps = {American Physical Society,}}
 
+@article{YaoChenYang2023_WPCG,
+	abbr = {Journal},
+	abstract = {Motivated by approximation Bayesian computation using mean-field variational approximation and the computation of equilibrium in multi-species systems with cross-interaction, this paper investigates the composite geodesically convex optimization problem over multiple distributions. The objective functional under consideration is composed of a convex potential energy on a product of Wasserstein spaces and a sum of convex self-interaction and internal energies associated with each distribution. To efficiently solve this problem, we introduce the Wasserstein Proximal Coordinate Gradient (WPCG) algorithms with parallel, sequential and random update schemes. Under a quadratic growth (QC) condition that is weaker than the usual strong convexity requirement on the objective functional, we show that WPCG converges exponentially fast to the unique global optimum. In the absence of the QG condition, WPCG is still demonstrated to converge to the global optimal solution, albeit at a slower polynomial rate. Numerical results for both motivating examples are consistent with our theoretical findings.},
+	author = {Yao, Rentian and Chen, Xiaohui and Yang, Yun},
+	bibtex_show = {true},
+	date-added = {2023-10-09 22:22:12 -0700},
+	date-modified = {2023-10-09 22:35:49 -0700},
+	month = {May},
+	title = {Wasserstein proximal coordinate gradient algorithms},
+	journal = {Journal of Machine Learning Research},
+	year = {2024},
+	pdf = {https://arxiv.org/abs/2405.04628},
+	bdsk-url-1 = {https://arxiv.org/abs/2305.18436}}
+
+@inproceedings{GracykChen2022,
+	abbr = {Conference},
+	abstract = {Optimal transport (OT) offers a versatile framework to compare complex data distributions in a geometrically meaningful way. Traditional methods for computing the Wasserstein distance and geodesic between probability measures require mesh-dependent domain discretization and suffer from the curse-of-dimensionality. We present GeONet, a mesh-invariant deep neural operator network that learns the non-linear mapping from the input pair of initial and terminal distributions to the Wasserstein geodesic connecting the two endpoint distributions. In the offline training stage, GeONet learns the saddle point optimality conditions for the dynamic formulation of the OT problem in the primal and dual spaces that are characterized by a coupled PDE system. The subsequent inference stage is instantaneous and can be deployed for real-time predictions in the online learning setting. We demonstrate that GeONet achieves comparable testing accuracy to the standard OT solvers on a simulation example and the CIFAR-10 dataset with considerably reduced inference-stage computational cost by orders of magnitude.},
+	author = {Gracyk, Andrew and Chen, Xiaohui},
+	booktitle = {Conference on Uncertainty in Artificial Intelligence (UAI)},
+	bibtex_show = {true},
+	code = {https://github.com/agracyk2/GeONet},
+	copyright = {Creative Commons Attribution 4.0 International},
+	date-added = {2022-09-30 08:37:46 -0500},
+	date-modified = {2022-09-30 08:51:01 -0500},
+	doi = {10.48550/ARXIV.2209.14440},
+	keywords = {Machine Learning (cs.LG), Artificial Intelligence (cs.AI), Computer Vision and Pattern Recognition (cs.CV), Machine Learning (stat.ML), FOS: Computer and information sciences, FOS: Computer and information sciences},
+	month = {July},
+	pdf = {https://arxiv.org/abs/2209.14440},
+	title = {GeONet: a neural operator for learning the Wasserstein geodesic},
+	url = {https://arxiv.org/abs/2209.14440},
+	year = {2024},
+	bdsk-url-1 = {https://arxiv.org/abs/2209.14440},
+	bdsk-url-2 = {https://doi.org/10.48550/ARXIV.2209.14440}}
+
 @article{zhang2023generative,
 	abbr = {Journal},
 	abstract = {Deep generative models are key-enabling technology to computer vision, text generation, and large language models. Denoising diffusion probabilistic models (DDPMs) have recently gained much attention due to their ability to generate diverse and high-quality samples in many computer vision tasks, as well as to incorporate flexible model architectures and a relatively simple training scheme. Quantum generative models, empowered by entanglement and superposition, have brought new insight to learning classical and quantum data. Inspired by the classical counterpart, we propose the quantum denoising diffusion probabilistic model (QuDDPM) to enable efficiently trainable generative learning of quantum data. QuDDPM adopts sufficient layers of circuits to guarantee expressivity, while it introduces multiple intermediate training tasks as interpolation between the target distribution and noise to avoid barren plateau and guarantee efficient training. We provide bounds on the learning error and demonstrate QuDDPM's capability in learning correlated quantum noise model, quantum many-body phases, and topological structure of quantum data. The results provide a paradigm for versatile and efficient quantum generative learning.},
@@ -64,18 +98,6 @@
 	year = {2024},
 	bdsk-url-1 = {https://doi.org/10.3150/23-BEJ1614}}
 
-@misc{YaoChenYang2023_WPCG,
-	abbr = {arXiv},
-	abstract = {This paper concerns composite (geodesically) convex optimization over multiple distributions. The objective functional under consideration is composed of a convex potential energy, defined on a product of Wasserstein spaces (the space of all distributions with a finite second moment), and a sum of convex self-interaction and internal energies associated with each distribution. To efficiently solve this problem, we introduce the Wasserstein Proximal Coordinate Gradient (WPCG) algorithm. Under a Quadratic Growth (QG) condition on the objective functional, a condition more relaxed than the typical strongly convex requirement, WPCG is proven to attain exponential convergence to the unique global optimum. Implications regarding the choice of step size and update schemes (parallel, sequential and random) are also discussed. In the absence of the QG condition, WPCG is still demonstrated to converge to the global optimal solution, albeit at a slower polynomial rate. The algorithm and theoretical framework are applied to two representative examples: approximation Bayesian computation using mean-field variational approximation, and the computation of equilibrium in multi-species systems with cross-interaction. Numerical results for both examples are consistent with our theoretical findings.},
-	author = {Yao, Rentian and Chen, Xiaohui and Yang, Yun},
-	bibtex_show = {true},
-	date-added = {2023-10-09 22:22:12 -0700},
-	date-modified = {2023-10-09 22:35:49 -0700},
-	month = {Jul},
-	title = {Wasserstein proximal coordinate gradient algorithms},
-	year = {2023},
-	bdsk-url-1 = {https://arxiv.org/abs/2305.18436}}
-
 @article{10.3150/22-BEJ1459,
 	abbr = {Journal},
 	abstract = {Principled nonparametric tests for regression curvature in Rd are often statistically and computationally challenging. This paper introduces the stratified incomplete local simplex (SILS) tests for joint concavity of nonparametric multiple regression. The SILS tests with suitable bootstrap calibration are shown to achieve simultaneous guarantees on dimension-free computational complexity, polynomial decay of the uniform error-in-size, and power consistency for general (global and local) alternatives. To establish these results, we develop a general theory for incomplete U-processes with stratified random sparse weights. Novel technical ingredients include maximal inequalities for the supremum of multiple incomplete U-processes.},
@@ -112,26 +134,6 @@
 	year = {2023},
 	bdsk-url-1 = {https://arxiv.org/abs/2209.15097},
 	bdsk-url-2 = {https://doi.org/10.48550/ARXIV.2209.15097}}
-
-@inproceedings{GracykChen2022,
-	abbr = {Conference},
-	abstract = {Optimal transport (OT) offers a versatile framework to compare complex data distributions in a geometrically meaningful way. Traditional methods for computing the Wasserstein distance and geodesic between probability measures require mesh-dependent domain discretization and suffer from the curse-of-dimensionality. We present GeONet, a mesh-invariant deep neural operator network that learns the non-linear mapping from the input pair of initial and terminal distributions to the Wasserstein geodesic connecting the two endpoint distributions. In the offline training stage, GeONet learns the saddle point optimality conditions for the dynamic formulation of the OT problem in the primal and dual spaces that are characterized by a coupled PDE system. The subsequent inference stage is instantaneous and can be deployed for real-time predictions in the online learning setting. We demonstrate that GeONet achieves comparable testing accuracy to the standard OT solvers on a simulation example and the CIFAR-10 dataset with considerably reduced inference-stage computational cost by orders of magnitude.},
-	author = {Gracyk, Andrew and Chen, Xiaohui},
-	booktitle = {Conference on Uncertainty in Artificial Intelligence (UAI)},
-	bibtex_show = {true},
-	code = {https://github.com/agracyk2/GeONet},
-	copyright = {Creative Commons Attribution 4.0 International},
-	date-added = {2022-09-30 08:37:46 -0500},
-	date-modified = {2022-09-30 08:51:01 -0500},
-	doi = {10.48550/ARXIV.2209.14440},
-	keywords = {Machine Learning (cs.LG), Artificial Intelligence (cs.AI), Computer Vision and Pattern Recognition (cs.CV), Machine Learning (stat.ML), FOS: Computer and information sciences, FOS: Computer and information sciences},
-	month = {July},
-	pdf = {https://arxiv.org/abs/2209.14440},
-	title = {GeONet: a neural operator for learning the Wasserstein geodesic},
-	url = {https://arxiv.org/abs/2209.14440},
-	year = {2024},
-	bdsk-url-1 = {https://arxiv.org/abs/2209.14440},
-	bdsk-url-2 = {https://doi.org/10.48550/ARXIV.2209.14440}}
 
 @inproceedings{ZhuangChenYang2022,
 	abbr = {Conference},
