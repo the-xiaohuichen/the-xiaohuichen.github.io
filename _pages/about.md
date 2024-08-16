@@ -16,13 +16,18 @@ social: true  # includes social icons at the bottom of the page
 <div>
 <h1><b>Xiaohui Chen</b></h1>
 
-Associate Professor<br>
+<b>Associate Professor</b><br>
 <a href="https://dornsife.usc.edu/mathematics/">Department of Mathematics</a><br>
-<a href="https://www.usc.edu/">University of Southern California</a><br>
+<a href="https://www.usc.edu/">University of Southern California</a><br><br>
+
+
+<b>Program Director</b><br>
+<a href="https://dornsife.usc.edu/math-data-science/">Master's program in Mathematical Data Science</a><br>
+<a href="https://www.usc.edu/">University of Southern California</a><br><br>
 
 <b>Office</b>: Kaprielian Hall (KAP) 406B<br>
 <b>Address</b>: 3620 S. Vermont Ave., Los Angeles, CA 90089 USA<br>
-<b>Lab website</b>: <a href="https://dornsife.usc.edu/mirl/"> Machine Intelligence Research Lab (MIRL)</a><br><br>
+<b>Lab website</b>: <a href="https://dornsife.usc.edu/mirl/"> Machine Intelligence Research Lab (MIRL)</a><br><br><br>
 
 
 I am broadly interested in the mathematics of data science and artificial intelligence. My research work has been centered around high-dimensional statistics, machine learning and optimal transport.
