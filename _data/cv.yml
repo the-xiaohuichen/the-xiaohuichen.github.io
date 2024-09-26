@@ -1,3 +1,35 @@
+- title: Associate Editor
+  type: time_table
+  contents:
+    - year: 2025 - 
+      items:
+        - Bernoulli
+        
+    - year: 2020 - present
+      items: 
+        - Statistica Sinica
+
+    - year: 2019 - present
+      items: 
+        - Canadian Journal of Statistics
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - Simons Fellowship in Mathematics
+        - Associate, Center for Advanced Study, UIUC
+
+    - year: 2019
+      items: 
+        - <a href="https://www.icsa.org/2010-2/">ICSA Outstanding Young Researcher Award</a>
+
+    - year: 2018
+      items: 
+        - NSF CAREER Award
+        - Arnold O. Beckman Award, University of Illinois
+        
 - title: Education
   type: time_table
   contents:
@@ -55,31 +87,3 @@
     - title: Post-doc and research intern
       institution: Toyota Technological Institute at Chicago
       year: 2011 - 2012
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2020
-      items: 
-        - Simons Fellowship in Mathematics
-        - Associate, Center for Advanced Study, UIUC
-
-    - year: 2019
-      items: 
-        - <a href="https://www.icsa.org/2010-2/">ICSA Outstanding Young Researcher Award</a>
-
-    - year: 2018
-      items: 
-        - NSF CAREER Award
-        - Arnold O. Beckman Award, University of Illinois  
-
-- title: Associate Editor
-  type: time_table
-  contents:
-    - year: 2020 - present
-      items: 
-        - Statistica Sinica
-
-    - year: 2019 - present
-      items: 
-        - Canadian Journal of Statistics

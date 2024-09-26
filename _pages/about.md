@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 <b>Program Director</b><br>
-<a href="https://dornsife.usc.edu/math-data-science/">Master's program in Mathematical Data Science</a><br>
+<a href="https://dornsife.usc.edu/math-data-science/">Master's Program in Mathematical Data Science</a><br>
 <a href="https://www.usc.edu/">University of Southern California</a><br><br>
 
 <b>Office</b>: Kaprielian Hall (KAP) 406B<br>
