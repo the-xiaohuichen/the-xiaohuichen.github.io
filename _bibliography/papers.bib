@@ -1,7 +1,7 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Xiaohui Chen at 2024-01-31 18:03:04 -0800 
+%% Created for Xiaohui Chen at 2024-10-15 07:29:34 -0700 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
@@ -9,27 +9,44 @@
 
 @string{aps = {American Physical Society,}}
 
+@misc{zhang2024holographicdeepthermalization,
+      abbr = {arXiv},
+      title={Holographic deep thermalization}, 
+      author={Bingzhi Zhang and Peng Xu and Xiaohui Chen and Quntao Zhuang},
+      year={2024},
+      month = {November},
+      eprint={2411.03587},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      pdf={https://arxiv.org/abs/2411.03587}, 
+      bibtex_show = {true},
+      abstract = {Random quantum states play a critical role in quantum information processing. While random quantum circuits typically provide pseudo-random states, deep thermalization introduces quantum measurement to generate genuinely random states. However, the requirement of large ancillae in conventional deep thermalization poses a challenge to scale up the system size. We introduce holographic deep thermalization to substantially reduce the required ancillae to a system-size independent constant. Our circuit design trades space with time, via adopting a sequential application of an scrambling-measure-reset process on a small number of ancillae. Via tuning the ancilla size and number of time steps, holographic deep thermalization allows a continuous trade-off between the total quantum circuit size and the ancilla size. In the case of finite-size systems, we further enhance the performance of holographic deep thermalization via generative quantum machine learning, which leads to constant-factor advantages in the convergence towards Haar random. The theoretical predictions are verified with IBM Quantum noisy simulations.}
+}
+
 @article{YaoChenYang2023_WPCG,
 	abbr = {Journal},
 	abstract = {Motivated by approximation Bayesian computation using mean-field variational approximation and the computation of equilibrium in multi-species systems with cross-interaction, this paper investigates the composite geodesically convex optimization problem over multiple distributions. The objective functional under consideration is composed of a convex potential energy on a product of Wasserstein spaces and a sum of convex self-interaction and internal energies associated with each distribution. To efficiently solve this problem, we introduce the Wasserstein Proximal Coordinate Gradient (WPCG) algorithms with parallel, sequential and random update schemes. Under a quadratic growth (QC) condition that is weaker than the usual strong convexity requirement on the objective functional, we show that WPCG converges exponentially fast to the unique global optimum. In the absence of the QG condition, WPCG is still demonstrated to converge to the global optimal solution, albeit at a slower polynomial rate. Numerical results for both motivating examples are consistent with our theoretical findings.},
 	author = {Yao, Rentian and Chen, Xiaohui and Yang, Yun},
 	bibtex_show = {true},
 	date-added = {2023-10-09 22:22:12 -0700},
-	date-modified = {2023-10-09 22:35:49 -0700},
-	month = {May},
-	title = {Wasserstein proximal coordinate gradient algorithms},
+	date-modified = {2024-10-15 07:29:34 -0700},
 	journal = {Journal of Machine Learning Research},
-	year = {2024},
-	selected = {true},
+	month = {May},
+	number = {269},
+	pages = {1-66},
 	pdf = {https://arxiv.org/abs/2405.04628},
+	selected = {true},
+	title = {Wasserstein proximal coordinate gradient algorithms},
+	volume = {25},
+	year = {2024},
 	bdsk-url-1 = {https://arxiv.org/abs/2305.18436}}
 
 @inproceedings{GracykChen2022,
 	abbr = {Conference},
 	abstract = {Optimal transport (OT) offers a versatile framework to compare complex data distributions in a geometrically meaningful way. Traditional methods for computing the Wasserstein distance and geodesic between probability measures require mesh-dependent domain discretization and suffer from the curse-of-dimensionality. We present GeONet, a mesh-invariant deep neural operator network that learns the non-linear mapping from the input pair of initial and terminal distributions to the Wasserstein geodesic connecting the two endpoint distributions. In the offline training stage, GeONet learns the saddle point optimality conditions for the dynamic formulation of the OT problem in the primal and dual spaces that are characterized by a coupled PDE system. The subsequent inference stage is instantaneous and can be deployed for real-time predictions in the online learning setting. We demonstrate that GeONet achieves comparable testing accuracy to the standard OT solvers on a simulation example and the CIFAR-10 dataset with considerably reduced inference-stage computational cost by orders of magnitude.},
 	author = {Gracyk, Andrew and Chen, Xiaohui},
-	booktitle = {Conference on Uncertainty in Artificial Intelligence (UAI)},
 	bibtex_show = {true},
+	booktitle = {Conference on Uncertainty in Artificial Intelligence (UAI)},
 	code = {https://github.com/agracyk2/GeONet},
 	copyright = {Creative Commons Attribution 4.0 International},
 	date-added = {2022-09-30 08:37:46 -0500},
@@ -49,6 +66,7 @@
 	abstract = {Deep generative models are key-enabling technology to computer vision, text generation, and large language models. Denoising diffusion probabilistic models (DDPMs) have recently gained much attention due to their ability to generate diverse and high-quality samples in many computer vision tasks, as well as to incorporate flexible model architectures and a relatively simple training scheme. Quantum generative models, empowered by entanglement and superposition, have brought new insight to learning classical and quantum data. Inspired by the classical counterpart, we propose the quantum denoising diffusion probabilistic model (QuDDPM) to enable efficiently trainable generative learning of quantum data. QuDDPM adopts sufficient layers of circuits to guarantee expressivity, while it introduces multiple intermediate training tasks as interpolation between the target distribution and noise to avoid barren plateau and guarantee efficient training. We provide bounds on the learning error and demonstrate QuDDPM's capability in learning correlated quantum noise model, quantum many-body phases, and topological structure of quantum data. The results provide a paradigm for versatile and efficient quantum generative learning.},
 	author = {Zhang, Bingzhi and Xu, Peng and Chen, Xiaohui and Zhuang, Quntao},
 	bibtex_show = {true},
+	code = {https://github.com/Francis-Hsu/QuantGenMdl},
 	date-added = {2023-10-09 22:08:13 -0700},
 	date-modified = {2024-01-31 18:03:04 -0800},
 	journal = {Physical Review Letters},
@@ -57,7 +75,6 @@
 	title = {Generative quantum machine learning via denoising diffusion probabilistic models},
 	url = {https://arxiv.org/abs/2310.05866},
 	year = {2024},
-	code = {https://github.com/Francis-Hsu/QuantGenMdl},
 	bdsk-url-1 = {https://arxiv.org/abs/2310.05866}}
 
 @inproceedings{ZhuangChenYangZhang2023_NMF-BM,
