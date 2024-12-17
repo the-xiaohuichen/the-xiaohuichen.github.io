@@ -1,6 +1,9 @@
 - title: University of Southern California
   type: time_table
   contents:
+    - title: MATH 647 Topics in Statistics -- Nonparametric Statistics
+      year: 2025 Spring
+
     - title: MATH 541B Introduction to Mathematical Statistics
       year: 2024 Fall
 
