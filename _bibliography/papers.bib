@@ -1,7 +1,7 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Xiaohui Chen at 2024-10-15 07:29:34 -0700 
+%% Created for Xiaohui Chen at 2025-01-21 22:15:40 -0800 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
@@ -9,19 +9,41 @@
 
 @string{aps = {American Physical Society,}}
 
+@misc{ZhuChen2025_convergence-nonconvex,
+	abbr = {arXiv},
+	abstract = {The proximal algorithm is a powerful tool to minimize nonlinear and nonsmooth functionals in a general metric space. Motivated by the recent progress in studying the training dynamics of the noisy gradient descent algorithm on two-layer neural networks in the mean-field regime, we provide in this paper a simple and self-contained analysis for the convergence of the general-purpose Wasserstein proximal algorithm without assuming geodesic convexity on the objective functional. Under a natural Wasserstein analog of the Euclidean Polyak-{\L}ojasiewicz inequality, we show that the proximal algorithm achieves an unbiased and linear convergence rate. Our convergence rate improves upon existing rates of the proximal algorithm for solving Wasserstein gradient flows under strong geodesic convexity. We also extend our analysis to the inexact proximal algorithm for geodesically semiconvex objectives. In our numerical experiments, proximal training demonstrates a faster convergence rate than the noisy gradient descent algorithm on mean-field neural networks.},
+	author = {Zhu, Shuailong and Chen, Xiaohui},
+	bibtex_show = {true},
+	month = {January},
+	pdf = {https://arxiv.org/abs/2501.14993},
+	title = {Convergence analysis of the Wasserstein proximal algorithm beyond convexity},
+	url = {https://arxiv.org/abs/2501.14993},
+	year = {2025}}
+
+@misc{KimYaoZhuChen2025_barycenter-nonconvex-concave,
+	abbr = {arXiv},
+	abstract = {The optimal transport barycenter (a.k.a. Wasserstein barycenter) is a fundamental notion of averaging that extends from the Euclidean space to the Wasserstein space of probability distributions. Computation of the \emph{unregularized} barycenter for discretized probability distributions on point clouds is a challenging task when the domain dimension $d > 1$. Most practical algorithms for approximating the barycenter problem are based on entropic regularization. In this paper, we introduce a nearly linear time $O(m \log{m})$ and linear space complexity $O(m)$ primal-dual algorithm, the \emph{Wasserstein-Descent $\dot{\mathbb{H}}^1$-Ascent} (WDHA) algorithm, for computing the \emph{exact} barycenter when the input probability density functions are discretized on an $m$-point grid. The key success of the WDHA algorithm hinges on alternating between two different yet closely related Wasserstein and Sobolev optimization geometries for the primal barycenter and dual Kantorovich potential subproblems. Under reasonable assumptions, we establish the convergence rate and iteration complexity of WDHA to its stationary point when the step size is appropriately chosen. Superior computational efficacy, scalability, and accuracy over the existing Sinkhorn-type algorithms are demonstrated on high-resolution (e.g., $1024 \times 1024$ images) 2D synthetic and real data.},
+	author = {Kim, Kaheon and Yao, Rentian and Zhu, Changbo and Chen, Xiaohui},
+	bibtex_show = {true},
+	month = {January},
+	pdf = {https://arxiv.org/abs/2501.14635},
+	title = {Optimal transport barycenter via nonconvex concave minimax optimization},
+	url = {https://arxiv.org/abs/2501.14635},
+	year = {2025}}
+
 @misc{zhang2024holographicdeepthermalization,
-      abbr = {arXiv},
-      title={Holographic deep thermalization}, 
-      author={Bingzhi Zhang and Peng Xu and Xiaohui Chen and Quntao Zhuang},
-      year={2024},
-      month = {November},
-      eprint={2411.03587},
-      archivePrefix={arXiv},
-      primaryClass={quant-ph},
-      pdf={https://arxiv.org/abs/2411.03587}, 
-      bibtex_show = {true},
-      abstract = {Random quantum states play a critical role in quantum information processing. While random quantum circuits typically provide pseudo-random states, deep thermalization introduces quantum measurement to generate genuinely random states. However, the requirement of large ancillae in conventional deep thermalization poses a challenge to scale up the system size. We introduce holographic deep thermalization to substantially reduce the required ancillae to a system-size independent constant. Our circuit design trades space with time, via adopting a sequential application of an scrambling-measure-reset process on a small number of ancillae. Via tuning the ancilla size and number of time steps, holographic deep thermalization allows a continuous trade-off between the total quantum circuit size and the ancilla size. In the case of finite-size systems, we further enhance the performance of holographic deep thermalization via generative quantum machine learning, which leads to constant-factor advantages in the convergence towards Haar random. The theoretical predictions are verified with IBM Quantum noisy simulations.}
-}
+	abbr = {arXiv},
+	abstract = {Random quantum states play a critical role in quantum information processing. While random quantum circuits typically provide pseudo-random states, deep thermalization introduces quantum measurement to generate genuinely random states. However, the requirement of large ancillae in conventional deep thermalization poses a challenge to scale up the system size. We introduce holographic deep thermalization to substantially reduce the required ancillae to a system-size independent constant. Our circuit design trades space with time, via adopting a sequential application of an scrambling-measure-reset process on a small number of ancillae. Via tuning the ancilla size and number of time steps, holographic deep thermalization allows a continuous trade-off between the total quantum circuit size and the ancilla size. In the case of finite-size systems, we further enhance the performance of holographic deep thermalization via generative quantum machine learning, which leads to constant-factor advantages in the convergence towards Haar random. The theoretical predictions are verified with IBM Quantum noisy simulations.},
+	archiveprefix = {arXiv},
+	author = {Bingzhi Zhang and Peng Xu and Xiaohui Chen and Quntao Zhuang},
+	bibtex_show = {true},
+	date-modified = {2025-01-21 22:15:37 -0800},
+	eprint = {2411.03587},
+	month = {November},
+	pdf = {https://arxiv.org/abs/2411.03587},
+	primaryclass = {quant-ph},
+	title = {Holographic deep thermalization: theory and experimentation},
+	year = {2024}}
 
 @article{YaoChenYang2023_WPCG,
 	abbr = {Journal},

@@ -18,6 +18,9 @@
   - firstname: ["Young-Heon", "Y-H"]
     url: https://personal.math.ubc.ca/~yhkim/
 
+  - firstname: ["Kaheon", "K."]
+    url: https://sites.google.com/view/kaheon-kim/about?authuser=0/
+
 "Yu": 
   - firstname: ["Mengjia", "M. J."]
 
@@ -69,16 +72,23 @@
   - firstname: ["Peng", "P."]
     url: https://francis-hsu.github.io/
 
-"Zhuang":
-  - firstname: ["Yubo", "Y. B.", "Y."]
-    url: https://sites.google.com/view/yubo-zhuang/
-
-  - firstname: ["Quntao", "Q. T.", "Q."]
-    url: https://sites.usc.edu/zhuang/
-
 "Zhang":
   - firstname: ["Richard", "Richard Y.", "R.", "R. Y."]
     url: http://ryz.ece.illinois.edu/
 
   - firstname: ["Bingzhi", "B. Z.", "B."]
     url: https://sites.google.com/view/bingzhi-zhang/
+
+"Zhu":
+  - firstname: ["Changbo", "C.B.", "C."]
+    url: https://sites.google.com/view/changbozhu/home/
+
+  - firstname: ["Shuailong", "S.L", "S."]
+    url: https://one-punch24.github.io/
+
+"Zhuang":
+  - firstname: ["Yubo", "Y. B.", "Y."]
+    url: https://sites.google.com/view/yubo-zhuang/
+
+  - firstname: ["Quntao", "Q. T.", "Q."]
+    url: https://sites.usc.edu/zhuang/
