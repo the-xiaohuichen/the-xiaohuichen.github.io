@@ -96,3 +96,11 @@
 "Nitanda":
   - firstname: ["Atsushi", "A."]
     url:  https://sites.google.com/site/atsushinitanda
+
+"Chen":
+  - firstname: ["Yifan", "Y. F.", "Y."]
+    url: https://ychen-stat-ml.github.io/
+
+"Jiang":
+  - firstname: ["Mingchen", "M. C.", "M."]
+    url: https://jiangmingchen.top/
