@@ -3,10 +3,12 @@ github_users:
   - Yubo02
   - Francis-Hsu
   - ysong44
-  - agracyk2
+  - andrewgracyk
   - UBCDingXin
 
 github_repos:
+  - Francis-Hsu/QuantGenMdl
+  - kaheonkim/WDHA
   - xiaohuichen88/Graphical-Lasso
   - xiaohuichen88/Lasso
   - xiaohuichen88/LARS
@@ -14,6 +16,6 @@ github_repos:
   - xiaohuichen88/Diffusion-Kmeans
   - Yubo02/Sketch-and-Lift-Scalable-Subsampled-Semidefinite-Program-for-K-means-Clustering
   - ysong44/Stratified-incomplete-local-simplex-tests
-  - agracyk2/GeONet
+  - andrewgracyk/GeONet
   - UBCDingXin/TVVAR
   - Yubo02/Wasserstein-K-means-for-clustering-probability-distributions
