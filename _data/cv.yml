@@ -1,3 +1,10 @@
+- title: Area Chair
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - International Conference on Learning Representations (ICLR)
+
 - title: Associate Editor
   type: time_table
   contents:
