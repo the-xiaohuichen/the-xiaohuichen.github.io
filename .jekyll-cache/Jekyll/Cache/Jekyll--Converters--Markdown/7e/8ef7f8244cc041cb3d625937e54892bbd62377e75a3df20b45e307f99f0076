@@ -1,4 +1,4 @@
-I"¸X<!-- _pages/publications.md -->
+I"}Y<!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2025</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
@@ -7,7 +7,7 @@
 
   
         <!-- Entry bib key -->
-        <div id="IngaChen2025_NeuralLocalWassReg" class="col-sm-8">
+        <div id="girshfeld2025neurallocalwassersteinregression" class="col-sm-8">
         
           <!-- Title -->
           <div class="title">Neural Local Wasserstein Regression</div>
@@ -15,7 +15,7 @@
           <div class="author">
           
 
-          Inga Girshfeld,&nbsp;and&nbsp;<em>Xiaohui Chen</em></div>
+          <a href="https://sites.google.com/usc.edu/inga-girshfeld/">Inga Girshfeld</a>,&nbsp;and&nbsp;<em>Xiaohui Chen</em></div>
 
           <!-- Journal/Book title and date -->
           <div class="periodical">
@@ -24,6 +24,7 @@
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://arxiv.org/abs/2511.10824" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -31,7 +32,7 @@
             <p>We study the estimation problem of distribution-on-distribution regression, where both predictors and responses are probability measures. Existing approaches typically rely on a global optimal transport map or tangent-space linearization, which can be restrictive in approximation capacity and distort geometry in multivariate underlying domains. In this paper, we propose the \emphNeural Local Wasserstein Regression, a flexible nonparametric framework that models regression through locally defined transport maps in Wasserstein space. Our method builds on the analogy with classical kernel regression: kernel weights based on the 2-Wasserstein distance localize estimators around reference measures, while neural networks parameterize transport operators that adapt flexibly to complex data geometries. This localized perspective broadens the class of admissible transformations and avoids the limitations of global map assumptions and linearization structures. We develop a practical training procedure using DeepSets-style architectures and Sinkhorn-approximated losses, combined with a greedy reference selection strategy for scalability. Through synthetic experiments on Gaussian and mixture models, as well as distributional prediction tasks on MNIST, we demonstrate that our approach effectively captures nonlinear and high-dimensional distributional relationships that elude existing methods.</p>
           </div><!-- Hidden bibtex block -->
           <div class="bibtex hidden">
-            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">IngaChen2025_NeuralLocalWassReg</span><span class="p">,</span>
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">girshfeld2025neurallocalwassersteinregression</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Girshfeld, Inga and Chen, Xiaohui}</span><span class="p">,</span>
   <span class="na">month</span> <span class="p">=</span> <span class="nv">dec</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{Neural Local Wasserstein Regression}</span><span class="p">,</span>
