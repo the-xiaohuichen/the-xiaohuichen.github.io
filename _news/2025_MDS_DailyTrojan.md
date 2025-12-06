@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2025-12-02 07:59:00-0400
+inline: true
+---
+
+:sparkles: <a href="https://dailytrojan.com/2025/12/02/new-masters-degree-explores-math-behind-ai/">MDS Program Featured in the Daily Trojan!</a> New master’s degree explores math behind AI.
