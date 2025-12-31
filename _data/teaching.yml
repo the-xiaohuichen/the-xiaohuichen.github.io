@@ -1,6 +1,9 @@
 - title: University of Southern California
   type: time_table
   contents:
+    - title: MATH 541A Introduction to Mathematical Statistics
+      year: 2026 Spring
+
     - title: MATH 546 Mathematical Statistics for Data Science
       year: 2025 Fall
   

@@ -9,6 +9,18 @@
 
 @string{aps = {American Physical Society,}}
 
+@misc{LiChen2025_EMOT,
+	abbr = {arXiv},
+	abstract = {Multimarginal optimal transport (MOT) has emerged as a useful framework for many applied problems. However, compared to the well-studied classical two-marginal optimal transport theory, analysis of MOT is far more challenging and remains much less developed. In this paper, we study the statistical estimation and inference problems for the entropic MOT (EMOT), whose optimal solution is characterized by the multimarginal Schr\"{o}dinger system. Assuming only boundedness of the cost function, we derive sharp sample complexity for estimating several key quantities pertaining to EMOT (cost functional and Schr\"{o}dinger coupling) from point clouds that are randomly sampled from the input marginal distributions. Moreover, with substantially weaker smoothness assumption on the cost function than the existing literature, we derive distributional limits and bootstrap validity of various key EMOT objects. As an application, we propose the multimarginal Schr\"{o}dinger barycenter as a new and natural way to regularize the exact Wasserstein barycenter and demonstrate its statistical optimality.},
+	author = {Li, Pengtao and Chen, Xiaohui},
+	bibtex_show = {true},
+	month = {December},
+	pdf = {https://arxiv.org/abs/2502.02726},
+	title = {{Sample complexity and weak limits of nonsmooth multimarginal Schr\"{o}dinger system with application to optimal transport barycenter}},
+	url = {https://arxiv.org/abs/2502.02726},
+	year = {2025},
+	bdsk-url-1 = {https://arxiv.org/abs/2502.02726}}
+
 @inproceedings{girshfeld2025neurallocalwassersteinregression,
 	abbr = {Conference},
 	abstract = {We study the estimation problem of distribution-on-distribution regression, where both predictors and responses are probability measures. Existing approaches typically rely on a global optimal transport map or tangent-space linearization, which can be restrictive in approximation capacity and distort geometry in multivariate underlying domains. In this paper, we propose the \emph{Neural Local Wasserstein Regression}, a flexible nonparametric framework that models regression through locally defined transport maps in Wasserstein space. Our method builds on the analogy with classical kernel regression: kernel weights based on the 2-Wasserstein distance localize estimators around reference measures, while neural networks parameterize transport operators that adapt flexibly to complex data geometries. This localized perspective broadens the class of admissible transformations and avoids the limitations of global map assumptions and linearization structures. We develop a practical training procedure using DeepSets-style architectures and Sinkhorn-approximated losses, combined with a greedy reference selection strategy for scalability. Through synthetic experiments on Gaussian and mixture models, as well as distributional prediction tasks on MNIST, we demonstrate that our approach effectively captures nonlinear and high-dimensional distributional relationships that elude existing methods.},
@@ -110,18 +122,6 @@
 	url = {https://arxiv.org/abs/2502.17738},
 	year = {2025},
 	bdsk-url-1 = {https://arxiv.org/abs/2502.17738}}
-
-@misc{LiChen2025_MSB,
-	abbr = {arXiv},
-	abstract = {The Wasserstein barycenter plays a fundamental role in averaging measure-valued data under the framework of optimal transport. However, there are tremendous challenges in computing and estimating the Wasserstein barycenter for high-dimensional distributions. In this paper, we introduce the multimarginal Schr\"{o}dinger barycenter (MSB) based on the entropy regularized multimarginal optimal transport problem that admits general-purpose fast algorithms for computation. By recognizing a proper dual geometry, we derive non-asymptotic rates of convergence for estimating several key MSB quantities from point clouds randomly sampled from the input marginal distributions. Specifically, we show that our obtained sample complexity is statistically optimal for estimating the cost functional, Schr\"{o}dinger coupling and barycenter.},
-	author = {Li, Pengtao and Chen, Xiaohui},
-	bibtex_show = {true},
-	month = {February},
-	pdf = {https://arxiv.org/abs/2502.02726},
-	title = {{Multimarginal Schr\"{o}dinger Barycenter}},
-	url = {https://arxiv.org/abs/2502.02726},
-	year = {2025},
-	bdsk-url-1 = {https://arxiv.org/abs/2502.02726}}
 
 @misc{ZhuChen2025_convergence-nonconvex,
 	abbr = {arXiv},
