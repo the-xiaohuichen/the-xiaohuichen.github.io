@@ -59,9 +59,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Professor of Mathematics
+      institution: University of Southern California
+      year: 2026 - Present
+
     - title: Associate Professor of Mathematics
       institution: University of Southern California
-      year: 2023 - Present
+      year: 2023 - 2026
 
     - title: Adjunct Associate Professor
       institution: <a href="https://stat.illinois.edu/"> Department of Statistics</a>, University of Illinois at Urbana-Champaign
