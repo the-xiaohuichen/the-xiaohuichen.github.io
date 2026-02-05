@@ -30,6 +30,6 @@ social: true  # includes social icons at the bottom of the page
 <b>Lab website</b>: <a href="https://dornsife.usc.edu/mirl/"> Machine Intelligence Research Lab (MIRL)</a><br><br><br>
 
 
-I am broadly interested in the mathematics of data science and artificial intelligence. My research work has been centered around high-dimensional statistics, machine learning and optimal transport.
+I am broadly interested in foundations and applications of data science and artificial intelligence. My research work covers machine learning, optimization, high-dimensional statistics and optimal transport.
 
 </div>
