@@ -3,6 +3,10 @@
   contents:
     - year: 2026
       items:
+        - Conference on Neural Information Processing Systems (NeurIPS)
+
+    - year: 2026
+      items:
         - International Conference on Learning Representations (ICLR)
 
 - title: Associate Editor
