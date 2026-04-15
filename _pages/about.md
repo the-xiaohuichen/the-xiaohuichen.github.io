@@ -16,8 +16,9 @@ social: true  # includes social icons at the bottom of the page
 <div>
 <h1><b>Xiaohui Chen</b></h1>
 
-<b>Professor</b><br>
+<b>Professor of Mathematics and Computer Science</b><br>
 <a href="https://dornsife.usc.edu/mathematics/">Department of Mathematics</a><br>
+<a href="https://www.cs.usc.edu/">Thomas Lord Department of Computer Science</a><br>
 <a href="https://www.usc.edu/">University of Southern California</a><br><br>
 
 
