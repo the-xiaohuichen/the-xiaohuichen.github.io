@@ -26,11 +26,14 @@ social: true  # includes social icons at the bottom of the page
 <a href="https://dornsife.usc.edu/math-data-science/">Master's Program in Mathematical Data Science (MDS)</a><br>
 <a href="https://www.usc.edu/">University of Southern California</a><br><br>
 
-<b>Office</b>: Kaprielian Hall (KAP) 406B<br>
-<b>Address</b>: 3620 S. Vermont Ave., Los Angeles, CA 90089 USA<br>
-<b>Lab website</b>: <a href="https://dornsife.usc.edu/mirl/"> Machine Intelligence Research Lab (MIRL)</a><br><br><br>
+<b>Visiting Associate</b><br>
+<a href="https://www.cms.caltech.edu/">Computing and Mathematical Sciences (CMS)</a><br>
+<a href="https://www.caltech.edu/">California Institute of Technology</a><br><br>
 
-
-I am broadly interested in foundations and applications of data science and artificial intelligence. My research work covers machine learning, optimization, high-dimensional statistics and optimal transport.
+I am broadly interested in foundations and applications of data science and artificial intelligence. My research work covers machine learning, optimization, high-dimensional statistics and optimal transport.<br><br>
 
 </div>
+
+<b>Office</b>: Kaprielian Hall (KAP) 406B<br>
+<b>Address</b>: 3620 S. Vermont Ave., Los Angeles, CA 90089 USA<br>
+<b>Lab website</b>: <a href="https://dornsife.usc.edu/mirl/"> Machine Intelligence Research Lab (MIRL)</a><br>
