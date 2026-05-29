@@ -22,3 +22,6 @@
 
 "In Book":
   color: var(--global-badge_background-color)
+
+"Workshop":
+  color: var(--global-badge_background-color)
