@@ -9,7 +9,7 @@ display_categories: [PhD,Master,Alumni]
 horizontal: false
 ---
 
-<h2 style="font-size:1.5vw">We are a group of researchers in the <a href="https://dornsife.usc.edu/mirl/">Machine Intelligence Research Lab (MIRL)</a>, hosted in the <a href="https://dornsife.usc.edu/mathematics/">Department of Mathematics</a> at <a href="https://www.usc.edu/">USC</a>.<br><br> We address foundational and real-world challenges using machine learning and artificial intelligence.</h2>
+<h2 style="font-size:1.5vw">We are a group of <a href="https://www.usc.edu/">USC</a> researchers in the <a href="https://dornsife.usc.edu/mirl/">Machine Intelligence Research Lab (MIRL)</a>.<br><br> We address foundational and real-world challenges using machine learning and artificial intelligence.</h2>
 
 
 <!-- pages/people.md -->

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Xin Ding
-description: Nanjing University of Information Science and Technology
+description: Associate Professor at Nanjing University of Information Science and Technology
 img: assets/img/Xin_Ding.jpeg
-redirect: https://scholar.google.ca/citations?user=tiS63lYAAAAJ&hl=en
+redirect: https://faculty.nuist.edu.cn/dingxin/zh_CN/index/145633/list/index.htm
 importance: 2
 category: Alumni
 ---
