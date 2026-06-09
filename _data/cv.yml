@@ -25,6 +25,8 @@
     - title: Visiting Associate
       institution: <a href="https://www.cms.caltech.edu/">Computing and Mathematical Sciences (CMS)</a>, Caltech
       year: 2026 - Present
+      description:
+        - Hosted by <a href="https://aerospacerobotics.caltech.edu/prof-soonjo-chung">Prof. Soon-Jo Chung</a>
 
     - title: Associate Professor of Mathematics
       institution: University of Southern California
@@ -45,6 +47,8 @@
     - title: Visiting Faculty
       institution: <a href="https://idss.mit.edu/">Institute for Data, Systems, and Society (IDSS)</a>, Massachusetts Institute of Technology
       year: 2019 - 2020
+      description:
+        - Hosted by <a href="https://math.mit.edu/~rigollet/">Prof. Philippe Rigollet</a>
 
     - title: Affiliated Member
       institution: <a href="https://dpi.uillinois.edu/">Discovery Partners Institute</a>, University of Illinois
