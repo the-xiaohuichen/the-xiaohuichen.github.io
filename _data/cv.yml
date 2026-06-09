@@ -1,29 +1,3 @@
-- title: Area Chair
-  type: time_table
-  contents:
-    - year: 2026
-      items:
-        - Conference on Neural Information Processing Systems (NeurIPS)
-
-    - year: 2026
-      items:
-        - International Conference on Learning Representations (ICLR)
-
-- title: Associate Editor
-  type: time_table
-  contents:
-    - year: 2025 - present
-      items:
-        - Bernoulli
-        
-    - year: 2020 - present
-      items: 
-        - Statistica Sinica
-
-    - year: 2019 - 2024
-      items: 
-        - Canadian Journal of Statistics
-
 - title: Honors and Awards
   type: time_table
   contents:
@@ -41,25 +15,6 @@
         - NSF CAREER Award
         - Arnold O. Beckman Award, University of Illinois
         
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Electrical and Computer Engineering
-      institution: University of British Columbia, Vancouver, Canada
-      year: 2013
-      description:
-        - Advised by <a href="https://people.ece.ubc.ca/zjanew/">Z. Jane Wang</a>
-
-    - title: Master of Science in Bioinformatics
-      institution: University of British Columbia, Vancouver, Canada
-      year: 2008
-      description:
-        - Advised by <a href="https://www.sib.swiss/raphael-gottardo-group/">Raphael Gottardo</a> and <a href="https://www.cs.ubc.ca/~murphyk/">Kevin P. Murphy</a>
-
-    - title: Bachelor of Science
-      institution: Zhejiang University, Hangzhou, China
-      year: 2006
-
 - title: Experience
   type: time_table
   contents:
@@ -106,3 +61,48 @@
     - title: Post-doc and research intern
       institution: Toyota Technological Institute at Chicago
       year: 2011 - 2012
+      
+- title: Area Chair
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - Conference on Neural Information Processing Systems (NeurIPS)
+
+    - year: 2026
+      items:
+        - International Conference on Learning Representations (ICLR)
+
+- title: Associate Editor
+  type: time_table
+  contents:
+    - year: 2025 - present
+      items:
+        - Bernoulli
+        
+    - year: 2020 - present
+      items: 
+        - Statistica Sinica
+
+    - year: 2019 - 2024
+      items: 
+        - Canadian Journal of Statistics
+        
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Electrical and Computer Engineering
+      institution: University of British Columbia, Vancouver, Canada
+      year: 2013
+      description:
+        - Advised by <a href="https://people.ece.ubc.ca/zjanew/">Z. Jane Wang</a>
+
+    - title: Master of Science in Bioinformatics
+      institution: University of British Columbia, Vancouver, Canada
+      year: 2008
+      description:
+        - Advised by <a href="https://www.sib.swiss/raphael-gottardo-group/">Raphael Gottardo</a> and <a href="https://www.cs.ubc.ca/~murphyk/">Kevin P. Murphy</a>
+
+    - title: Bachelor of Science
+      institution: Zhejiang University, Hangzhou, China
+      year: 2006
