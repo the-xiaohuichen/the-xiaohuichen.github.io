@@ -1,6 +1,9 @@
 - title: University of Southern California
   type: time_table
   contents:
+    - title: MATH 550 Statistical Consulting and Data Analysis
+      year: 2026 Fall
+    
     - title: MATH 546 Mathematical Statistics for Data Science
       year: 2026 Fall
 
