@@ -1,4 +1,4 @@
-I"Q4<h2 style="font-size:1.5vw">We are a group of <a href="https://www.usc.edu/">USC</a> researchers in the <a href="https://dornsife.usc.edu/mirl/">Machine Intelligence Research Lab (MIRL)</a>.<br /><br /> We address foundational and real-world challenges using machine learning and artificial intelligence.</h2>
+I"a4<h2 style="font-size:1.5vw">We are a group of <a href="https://www.usc.edu/">USC</a> researchers in the <a href="https://dornsife.usc.edu/mirl/">Machine Intelligence Research Lab (MIRL)</a>.<br /><br /> We address foundational and real-world challenges using machine learning and artificial intelligence.</h2>
 
 <!-- pages/people.md -->
 <div class="people">
@@ -69,13 +69,13 @@
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Peng_Xu.JPG-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Peng_Xu.JPG-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Peng_Xu.JPG-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/PengXu_2026.png-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/PengXu_2026.png-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/PengXu_2026.png-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/Peng_Xu.JPG" width="100" height="280" alt="people thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/PengXu_2026.png" width="100" height="280" alt="people thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
