@@ -9,6 +9,21 @@
 
 @string{aps = {American Physical Society,}}
 
+@misc{xu2026gemkmeansmemoryefficientaccurateclustering,
+      abbr = {arXiv},
+      title={GEM-KMeans: Memory-Efficient and Accurate Clustering on Massive Scale with GPU Optimization},
+      abstract={Memory-efficient scaling on clustering problems without sacrificing statistical accuracy is of central interest for large-scale data analysis and machine learning problems. Nonnegative low-rank (NLR) matrix factorization for K-means is a scalable clustering method, which connects to semidefinite relaxations with optimal average-case exact recovery guarantees. However, a direct GPU implementation of NLR requires multiple large factor-sized buffers and substantial data movements that are essentially memory-bound. In this paper, we introduce GEM-KMeans, a spectrally normalized yet mathematically equivalent NLR formulation that fuses the gradient update, nonnegative projection, and sufficient statistics for normalization and iterate movement into a matrix-multiplication epilogue. Instead of retaining three massive factor-sized arrays, our IO-aware GPU implementation materializes only one single factor with small tile-reduction arrays as additional storage in the High Bandwidth Memory (HBM). We derive explicit memory costs and spectrally normalized smoothness bounds for optimizing the clustering objective function. Accurate clustering is demonstrated at massive scales on synthetic and real datasets, where performance gains of GEM-KMeans over existing GPU-accelerated Lloyd's algorithms involve data-dependent runtime tradeoffs.},
+      author={Xu, Peng and Koganti, Nihar and Kindratenko, Volodymyr and Chen, Xiaohui},
+      year={2026},
+      month={September},
+      bibtex_show = {true},
+      pdf={https://arxiv.org/abs/2609.36074},
+      eprint={2609.36074},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2609.36074}, 
+}
+
 @inproceedings{xu2026unifiedapproachcomputingwasserstein,
       abbr = {Conference},
       title={A Unified Approach for Computing Wasserstein Barycenters of Discrete and Continuous Measures}, 
@@ -17,6 +32,7 @@
       selected = {true},
       booktitle = {Proceedings of Fortieth Conference on Neural Information Processing Systems (NeurIPS)},
       year={2026},
+      month={December},
       bibtex_show = {true},
       pdf = {https://arxiv.org/abs/2605.11270},
       eprint={2605.11270},
@@ -45,6 +61,7 @@
       abstract={Wasserstein barycenters are a fundamental tool for the analysis of distribution-valued data, but their computation and statistical analysis become challenging in high-dimensional and multi-sample settings. The unregularized barycenter problem is computationally demanding and suffers severely from the curse of dimensionality, making regularization essential in many applications. While regularized optimal transport methods are widely used, approaches based on entropic penalization tend to overspread mass and may blur the geometric structure of the solution. Motivated by barycenter estimation, we propose a more general methodology based on sparse regularized multimarginal optimal transport (RMOT). Our formulation creates sparse transport plans and is designed to avoid this overspreading effect. We establish consistency, central limit theorems, and bootstrap validity for the optimal potentials and couplings for the empirical RMOT problem. Specializing to sparse regularized barycenters, our results yield a uniform weak limit and bootstrap consistency. Numerical simulations show that sparsity plays a fundamental role in preserving the structure of the solution and avoiding the overspreading behavior typical of entropic regularization.},
       author={Li, Pengtao and González-Sanz, Alberto and Chen, Xiaohui},
       year={2026},
+      month={September},
       pdf = {https://arxiv.org/abs/2609.09538},
       eprint={2609.09538},
       bibtex_show = {true},

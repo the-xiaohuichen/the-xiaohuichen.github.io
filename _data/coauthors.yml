@@ -32,13 +32,12 @@
   - firstname: ["Jinyuan", "J. Y."]
     url: https://sites.google.com/site/bryanchangjinyuan/
 
-"Xu":
-  - firstname: ["Mengyu", "M. Y."]
-    url: https://sciences.ucf.edu/statistics/person/mengyu-xu/
-
 "Yao":
-  - firstname: ["Rentian", "R. T."]
+  - firstname: ["Rentian", "R. T.", "R."]
     url: https://sites.google.com/view/rentianyao/
+
+  - firstname: ["Jian", "J."]
+    url: https://www.linkedin.com/in/jianyaoket/
 
 "Zhuang":
   - firstname: ["Yubo", "Y. B."]
@@ -71,6 +70,9 @@
 "Xu":
   - firstname: ["Peng", "P."]
     url: https://francis-hsu.github.io/
+
+  - firstname: ["Mengyu", "M. Y."]
+    url: https://sciences.ucf.edu/statistics/person/mengyu-xu/
 
 "Zhang":
   - firstname: ["Richard", "Richard Y.", "R.", "R. Y."]
@@ -116,3 +118,27 @@
 "González-Sanz":
   - firstname: ["Alberto", "A."]
     url: https://www.alberto-gonzalez-sanz.com/
+
+"Kindratenko":
+  - firstname: ["Volodymyr", "V.", "Vlad"]
+    url: https://siebelschool.illinois.edu/about/people/faculty/kindrtnk
+
+"Koganti":
+  - firstname: ["Nihar", "N."]
+    url: https://www.linkedin.com/in/nihar-koganti/
+
+"Yu":
+  - firstname: ["Mengjia", "M."]
+    url: https://www.linkedin.com/in/mengjia-yu-8a443b47/
+
+"He":
+  - firstname: ["Yifeng", "Y.", "Kevin", "K."]
+    url: https://www.linkedin.com/in/kevindork/
+
+"Ding":
+  - firstname: ["Xin", "X."]
+    url: https://faculty.nuist.edu.cn/dingxin/zh_CN/index/145633/list/index.htm
+
+"Qiu":
+  - firstname: ["Ziyi", "Z."]
+    url: https://dornsife.usc.edu/profile/ziyi-qiu/
