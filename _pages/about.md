@@ -32,6 +32,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am broadly interested in foundations and applications of data science and artificial intelligence. My research work covers machine learning, optimization, high-dimensional statistics and optimal transport.<br><br>
 
+I have served as an Associate Editor of <a href="https://www.bernoullisociety.org/publications/bernoulli-journal/">Bernoulli</a> (2025-Present), <a href="https://www3.stat.sinica.edu.tw/statistica/">Statistica Sinica</a> (2020-Present), <a href="https://onlinelibrary.wiley.com/journal/1708945x">Canadian Journal of Statistics</a> (2019-2024), and an Area Chair of NeurIPS and ICLR.<br><br>
+
 </div>
 
 <b>Office</b>: Kaprielian Hall (KAP) 406B<br>
