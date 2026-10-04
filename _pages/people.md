@@ -4,7 +4,7 @@ title: people
 permalink: /people/
 description: Current and past members in my research group.
 nav: true
-nav_order: 2
+nav_order: 1
 display_categories: [PhD,Master,Alumni]
 horizontal: false
 ---

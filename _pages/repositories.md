@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: Open-source code at GitHub from the current and past members in my research group.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 ## GitHub users
