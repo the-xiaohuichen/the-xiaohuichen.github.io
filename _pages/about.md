@@ -36,4 +36,3 @@ I am broadly interested in foundations and applications of data science and arti
 
 <b>Office</b>: Kaprielian Hall (KAP) 406B<br>
 <b>Address</b>: 3620 S. Vermont Ave., Los Angeles, CA 90089 USA<br>
-<b>Lab website</b>: <a href="https://dornsife.usc.edu/mirl/"> Machine Intelligence Research Lab (MIRL)</a><br>
