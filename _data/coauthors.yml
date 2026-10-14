@@ -6,6 +6,10 @@
   - firstname: ["Yun", "Y."]
     url: https://sites.google.com/site/yunyangstat/
 
+"Teng":
+  - firstname: ["Shanghua", "Shuang-Hua", "S.", "S.H."]
+    url: https://viterbi-web.usc.edu/~shanghua/
+
 "Wu":
   - firstname: ["Wei Biao", "Wei-Biao", "W. B."]
     url: https://www.stat.uchicago.edu/~wbwu/
@@ -142,3 +146,7 @@
 "Qiu":
   - firstname: ["Ziyi", "Z."]
     url: https://dornsife.usc.edu/profile/ziyi-qiu/
+
+"Li":
+  - firstname: ["Pengtao", "P."]
+    url: https://lipengtao01.github.io/pengtaoli.github.io/
